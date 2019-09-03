@@ -7,4 +7,5 @@ print(df)
 print("KathrineSN og ikke SM forhelvede")
 
 
+print('HejAndersVilduVæreMinNK?')
 
