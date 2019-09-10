@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("marketing.data", sep=" ")
+df = pd.read_csv("SouthAfrica.csv")
 
 print(df)
 
